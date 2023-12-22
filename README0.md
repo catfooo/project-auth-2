@@ -51,3 +51,41 @@ ive already forked, and i dont think i want to continue working at previous repo
 will there be any way to restart compelety new, and then, submit?
 i think ive asked question about this at stack. 
 so ill check this again and start with this, with new start.
+
+
+#  https://stackoverflowteams.com/c/technigo/questions/5350
+
+1 Answer
+Sorted by:
+
+ 
+0
+
+
+If you want to start all from scratch, you can delete the repo from your Github account, and delete the code files from your computer and then do a new fork from the Technigo repo.
+Share
+Edit
+Follow
+answered Nov 30 at 11:02
+Jennie Dalgren's user avatar
+Jennie DalgrenAdmin
+96911 gold badge66 silver badges8
+
+
+and yes, this means that i need to give up the previous project auth, and then, restart.
+and i dont want to do that, bcs i want to save where i were. 
+so i can go back and check whenever i want.
+
+
+so... if this is what i got for the answer, ill look into that previous project auth repo,
+and clone that time to time with another repo,
+so i can see the status, where i were, before. 
+
+but idk really. is the thing supposed to be this much annoying?
+imagine you are making text file with wordprocess or something.
+we can just easily go back, edit, and so on.
+why things have been this much difficult for me for git?
+it doesnt make sense. i think bcs i dont know git well, i suffer this much.
+but what i need to learn, and how i can learn?
+idk my current status and need someone to tell me what to do.
+spamming repo for every moment that i feel to save is ridiculous
